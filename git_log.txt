@@ -1,0 +1,11 @@
+﻿* c07403f - thor102, 2 days ago : sm├Ñ endringer og diskusjon (som trengs hadde feil)
+* 5ab981b - Mads Helle, 3 days ago : nesten ferdig oppg 5, fortsatt litt feil ├Ñ huke ut
+* 740a01e - Mads Helle, 3 days ago : Task 3 og 4 ferdig
+* 8283c08 - thor102, 3 days ago : tar bort noen prints
+*   7fc390f - thor102, 3 days ago : Merge branch 'main' of https://github.com/madhel310/Deliverable_2
+|\  
+| * a2a4bee - Mads Helle, 4 days ago : task 3 nesten ferdig
+* | 408a7c6 - thor102, 3 days ago : task 1-2 og task-5 1, 2 ferdig
+|/  
+* f1fe269 - thor102, 9 days ago : start file to begin work on together
+* 0bbfc5c - madhel310, 11 days ago : Initial commit
